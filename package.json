@@ -1,0 +1,38 @@
+{
+  "name": "mongoose-202",
+  "version": "0.1.0",
+  "description": "mongoose mongodb save image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/mongoose-202.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "promises",
+    "fs",
+    "readfile",
+    "schema",
+    "image"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/mongoose-202/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/mongoose-202#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.9"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "eslint": "^4.6.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-rules-nodejs": "^1.0.0"
+  }
+}

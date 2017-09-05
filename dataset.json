@@ -1,0 +1,21 @@
+
+{
+	"primerNombre" : "Pepe",
+	"segundoNombre" : "",
+	"primerApellido" : "Veraz",
+	"segundoApellido" : "Castaño",
+	"estadoCivil" : "Soltero",
+	"generoSexo" : "Hombre",
+	"idiomaPreferido" : "Español",
+	"fechaDeNacimiento" : "1990/09/01",
+	"permalink" : "pepeveraz",
+	"correoElectronico" : "pepeveraz@example.com",
+	"avatarURI" : "./img-Wilt.jpg",
+	"passwordHash" : "Password",
+	"passwordSalt" : "Password",
+	"timeStamp" : "2017/09/02",
+	"fechaDeCreacion" : "2017/09/02",
+	"fechaDeUltimaModificacion" : "2017/09/02",
+	"prefijo" : "Sr.",
+	"sufijo" : "Jr."
+}
